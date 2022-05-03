@@ -1,0 +1,6 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\obj\Debug\ListBands.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\bin\Debug\ListBands.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\bin\Debug\ListBands.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\bin\Debug\ListBands.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\obj\Debug\ListBands.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListBands\ListBands\obj\Debug\ListBands.pdb

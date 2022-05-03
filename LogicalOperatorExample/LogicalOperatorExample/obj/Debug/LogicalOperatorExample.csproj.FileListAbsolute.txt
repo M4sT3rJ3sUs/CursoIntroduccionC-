@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\LogicalOperatorExample.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\LogicalOperatorExample.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\LogicalOperatorExample.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\LogicalOperatorExample.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\LogicalOperatorExample.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\LogicalOperatorExample.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\LogicalOperatorExample.csproj.AssemblyReference.cache

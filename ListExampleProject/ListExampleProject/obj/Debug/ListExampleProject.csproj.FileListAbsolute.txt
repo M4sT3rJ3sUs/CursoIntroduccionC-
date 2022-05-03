@@ -1,0 +1,6 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\bin\Debug\ListExampleProject.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\bin\Debug\ListExampleProject.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\bin\Debug\ListExampleProject.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\obj\Debug\ListExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\obj\Debug\ListExampleProject.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ListExampleProject\ListExampleProject\obj\Debug\ListExampleProject.pdb

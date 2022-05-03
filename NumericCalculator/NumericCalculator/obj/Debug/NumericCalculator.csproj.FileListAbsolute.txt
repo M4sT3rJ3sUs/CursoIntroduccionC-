@@ -1,0 +1,6 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\obj\Debug\NumericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\bin\Debug\NumericCalculator.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\bin\Debug\NumericCalculator.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\bin\Debug\NumericCalculator.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\obj\Debug\NumericCalculator.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\NumericCalculator\NumericCalculator\obj\Debug\NumericCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\bin\Debug\PropiosMetodos.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\bin\Debug\PropiosMetodos.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\bin\Debug\PropiosMetodos.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\obj\Debug\PropiosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\obj\Debug\PropiosMetodos.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\PropiosMetodos\PropiosMetodos\obj\Debug\PropiosMetodos.pdb
