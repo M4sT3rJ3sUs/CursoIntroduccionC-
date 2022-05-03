@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\IfStatement\IfStatement\obj\Debug\IfStatement.pdb

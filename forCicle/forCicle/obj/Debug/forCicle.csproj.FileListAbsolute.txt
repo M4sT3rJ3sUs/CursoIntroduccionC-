@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\obj\Debug\forCicle.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\obj\Debug\forCicle.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\bin\Debug\forCicle.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\bin\Debug\forCicle.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\bin\Debug\forCicle.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\obj\Debug\forCicle.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\forCicle\forCicle\obj\Debug\forCicle.pdb

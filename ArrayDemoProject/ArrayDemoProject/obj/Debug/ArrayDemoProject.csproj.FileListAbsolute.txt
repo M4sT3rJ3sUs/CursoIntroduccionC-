@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\bin\Debug\ArrayDemoProject.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\bin\Debug\ArrayDemoProject.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\bin\Debug\ArrayDemoProject.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\obj\Debug\ArrayDemoProject.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\obj\Debug\ArrayDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\obj\Debug\ArrayDemoProject.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\ArrayDemoProject\ArrayDemoProject\obj\Debug\ArrayDemoProject.pdb
