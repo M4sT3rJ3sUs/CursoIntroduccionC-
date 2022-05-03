@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\restaurant10TablesReservationSystem.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\restaurant10TablesReservationSystem.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\restaurant10TablesReservationSystem.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\restaurant10TablesReservationSystem.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\restaurant10TablesReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\restaurant10TablesReservationSystem.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\restaurant10TablesReservationSystem.pdb

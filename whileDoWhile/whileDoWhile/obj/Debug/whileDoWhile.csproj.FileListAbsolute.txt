@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.pdb

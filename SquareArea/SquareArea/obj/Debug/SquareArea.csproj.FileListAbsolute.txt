@@ -1,0 +1,7 @@
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\obj\Debug\SquareArea.csproj.AssemblyReference.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\TecnoSoft\Documents\Visual Studio 2019\Projects\CURSO PLATZI\SquareArea\SquareArea\obj\Debug\SquareArea.pdb
